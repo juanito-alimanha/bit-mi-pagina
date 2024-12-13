@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(124, 220, 145);
+}
+.img-yo {
+    width: 350px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10%;
+  }
